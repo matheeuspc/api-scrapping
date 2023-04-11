@@ -1,0 +1,310 @@
+Rodada,EscanteioCasa,AtkPerigosoCasa,PosseCasa,Casa,ScoreCasa,X,ScoreVisitante,Visitante,PosseVisitante,AtkPerigosoVisitante,EscanteioVisitante
+31,3,58,50,Santos,4,X,1,Juventude,50,23,8
+31,4,28,44,Atletico GO,1,X,1,Palmeiras,56,30,9
+31,16,70,63,Atletico-MG,0,X,0,Ceara,37,23,0
+31,5,35,34,Coritiba,2,X,1,Bragantino,66,90,8
+31,8,60,62,Fluminense,0,X,2,America MG,38,52,7
+31,3,32,35,Fortaleza,2,X,0,Avai,65,28,6
+31,10,64,67,Sao Paulo,0,X,1,Botafogo RJ,33,24,4
+31,6,52,61,Internacional,4,X,2,Goias,39,34,6
+31,5,33,51,Corinthians,2,X,1,Athletico-PR,49,34,6
+31,7,44,45,Cuiaba,1,X,2,Flamengo RJ,55,53,6
+30,3,9,33,America MG,1,X,2,Sao Paulo,67,30,3
+30,3,13,56,Avai,1,X,2,Botafogo RJ,44,17,5
+30,9,69,56,Palmeiras,4,X,0,Coritiba,44,23,6
+30,11,99,67,Flamengo RJ,0,X,0,Internacional,33,24,3
+30,5,23,44,Santos,1,X,2,Atletico-MG,56,38,4
+30,13,32,64,Athletico-PR,1,X,1,Fortaleza,36,21,4
+30,12,50,40,Atletico GO,3,X,2,Fluminense,60,30,5
+30,2,58,46,Bragantino,2,X,1,Cuiaba,54,70,7
+30,7,44,52,Ceara,1,X,1,Goias,48,32,3
+30,2,45,34,Juventude,2,X,2,Corinthians,66,69,5
+29,2,28,49,Botafogo RJ,1,X,3,Palmeiras,51,53,6
+29,7,42,60,Corinthians,2,X,0,Cuiaba,40,38,4
+29,11,55,51,Athletico-PR,2,X,0,Juventude,49,31,4
+29,11,79,59,Avai,1,X,2,Atletico GO,41,43,3
+29,10,122,67,Flamengo RJ,4,X,1,Bragantino,33,15,1
+29,6,56,54,Goias,0,X,1,Fortaleza,46,41,3
+29,10,40,29,Atletico-MG,2,X,0,Fluminense,71,58,1
+29,5,53,60,Ceara,1,X,2,America MG,40,35,4
+29,2,44,47,Internacional,1,X,0,Santos,53,42,5
+28,7,78,68,Atletico-MG,0,X,1,Palmeiras,32,36,9
+28,6,46,45,Goias,0,X,1,Botafogo RJ,55,51,11
+28,6,56,59,Internacional,0,X,0,Bragantino,41,45,3
+28,2,35,42,Cuiaba,2,X,1,America MG,58,40,4
+28,5,62,65,Corinthians,2,X,1,Atletico GO,35,40,4
+28,7,40,32,Coritiba,1,X,0,Ceara,68,55,3
+28,5,63,62,Fluminense,4,X,0,Juventude,38,28,5
+28,7,34,28,Fortaleza,3,X,2,Flamengo RJ,72,43,3
+28,5,27,48,Santos,2,X,0,Athletico-PR,52,35,4
+28,9,49,61,Sao Paulo,4,X,0,Avai,39,40,4
+27,10,63,54,Atletico GO,1,X,2,Internacional,46,34,2
+27,8,56,64,Athletico-PR,2,X,2,Cuiaba,36,40,4
+27,8,66,54,Palmeiras,1,X,0,Santos,46,39,5
+27,4,55,45,America MG,1,X,0,Corinthians,55,45,8
+27,14,53,62,Juventude,1,X,1,Fortaleza,38,22,2
+27,4,24,39,Ceara,0,X,2,Sao Paulo,61,58,10
+27,6,71,50,Flamengo RJ,1,X,2,Fluminense,50,33,2
+27,5,63,60,Bragantino,1,X,1,Goias,40,30,2
+27,5,37,53,Botafogo RJ,2,X,0,Coritiba,47,56,10
+27,2,28,39,Avai,1,X,0,Atletico-MG,61,81,10
+26,4,33,29,Goias,1,X,1,Flamengo RJ,71,78,9
+26,7,38,42,Coritiba,2,X,0,Atletico GO,58,38,8
+26,3,17,43,Sao Paulo,1,X,1,Corinthians,57,36,7
+26,7,75,69,Avai,1,X,1,Athletico-PR,31,31,2
+26,6,51,47,Botafogo RJ,0,X,0,America MG,53,36,11
+26,14,82,67,Palmeiras,2,X,1,Juventude,33,18,3
+26,5,43,66,Fluminense,2,X,1,Fortaleza,34,35,6
+26,3,37,43,Ceara,2,X,1,Santos,57,42,5
+26,4,75,68,Internacional,1,X,0,Cuiaba,32,37,3
+26,7,70,61,Atletico-MG,1,X,1,Bragantino,39,22,5
+25,13,81,66,Santos,1,X,2,Goias,34,17,2
+25,7,43,33,Cuiaba,1,X,1,Sao Paulo,67,61,5
+25,5,51,50,Atletico GO,0,X,2,Atletico-MG,50,33,3
+25,2,37,50,Corinthians,2,X,2,Internacional,50,64,8
+25,5,45,57,Fortaleza,1,X,3,Botafogo RJ,43,31,9
+25,13,58,62,Flamengo RJ,1,X,1,Ceara,38,26,7
+25,4,60,51,America MG,2,X,0,Coritiba,49,65,5
+25,6,26,26,Athletico-PR,1,X,0,Fluminense,74,77,3
+25,2,25,41,Bragantino,2,X,2,Palmeiras,59,45,11
+25,7,45,39,Juventude,1,X,1,Avai,61,37,3
+24,5,48,48,Corinthians,1,X,0,Bragantino,52,25,5
+24,10,56,55,Internacional,4,X,0,Juventude,45,39,1
+24,3,46,45,Botafogo RJ,0,X,1,Flamengo RJ,55,41,4
+24,14,71,47,Cuiaba,0,X,0,Santos,53,25,2
+24,6,39,43,America MG,1,X,1,Atletico-MG,57,44,1
+24,7,73,72,Sao Paulo,0,X,1,Fortaleza,28,25,2
+24,8,85,59,Ceara,0,X,0,Athletico-PR,41,49,3
+24,3,68,61,Fluminense,1,X,1,Palmeiras,39,43,3
+24,4,70,44,Coritiba,1,X,0,Avai,56,60,5
+24,3,44,31,Goias,2,X,1,Atletico GO,69,65,3
+23,8,33,50,Avai,0,X,1,Internacional,50,65,4
+23,5,53,29,Santos,1,X,0,Sao Paulo,71,102,9
+23,2,47,58,Athletico-PR,1,X,1,America MG,42,49,7
+23,3,28,37,Atletico GO,1,X,1,Cuiaba,63,85,17
+23,10,63,58,Bragantino,1,X,1,Ceara,42,28,2
+23,4,35,36,Fortaleza,1,X,0,Corinthians,64,45,7
+23,10,58,56,Palmeiras,1,X,1,Flamengo RJ,44,25,4
+23,2,20,35,Juventude,2,X,2,Botafogo RJ,65,67,4
+23,11,64,64,Fluminense,5,X,2,Coritiba,36,69,3
+23,7,96,73,Atletico-MG,0,X,1,Goias,27,14,0
+22,6,46,32,Internacional,3,X,0,Fluminense,68,60,5
+22,6,61,39,America MG,1,X,0,Santos,61,39,6
+22,4,42,64,Ceara,0,X,1,Fortaleza,36,44,8
+22,12,61,69,Flamengo RJ,5,X,0,Athletico-PR,31,22,4
+22,13,47,51,Sao Paulo,3,X,0,Bragantino,49,32,4
+22,1,36,41,Coritiba,0,X,1,Atletico-MG,59,57,9
+22,8,60,54,Botafogo RJ,0,X,0,Atletico GO,46,31,3
+22,5,44,44,Cuiaba,1,X,0,Juventude,56,37,4
+22,5,61,57,Corinthians,0,X,1,Palmeiras,43,18,3
+22,6,49,46,Goias,1,X,1,Avai,54,43,2
+21,6,52,48,Coritiba,1,X,2,Santos,52,55,7
+21,11,58,64,Atletico-MG,2,X,3,Athletico-PR,36,24,2
+21,7,29,33,Fortaleza,3,X,0,Internacional,67,57,5
+21,11,54,64,Fluminense,1,X,0,Cuiaba,36,32,6
+21,5,47,56,Palmeiras,3,X,0,Goias,44,33,4
+21,5,50,54,Sao Paulo,0,X,2,Flamengo RJ,46,49,3
+21,8,43,43,Atletico GO,2,X,1,Bragantino,57,81,10
+21,2,41,41,Avai,1,X,1,Corinthians,59,52,8
+21,3,39,40,Botafogo RJ,1,X,1,Ceara,60,49,8
+21,13,73,65,Juventude,0,X,1,America MG,35,31,2
+20,5,53,33,Santos,2,X,2,Fluminense,67,53,5
+20,7,70,51,Bragantino,1,X,0,Juventude,49,33,5
+20,7,64,47,America MG,3,X,1,Avai,53,37,7
+20,10,67,56,Cuiaba,0,X,1,Fortaleza,44,45,3
+20,6,38,39,Athletico-PR,1,X,0,Sao Paulo,61,51,5
+20,1,31,31,Internacional,3,X,0,Atletico-MG,69,55,7
+20,6,74,52,Flamengo RJ,4,X,1,Atletico GO,48,31,3
+20,4,62,49,Corinthians,1,X,0,Botafogo RJ,51,40,4
+20,6,33,47,Ceara,1,X,2,Palmeiras,53,40,5
+20,3,42,50,Goias,1,X,0,Coritiba,50,59,7
+19,4,30,42,Coritiba,1,X,0,Cuiaba,58,66,4
+19,7,65,52,Fortaleza,0,X,0,Santos,48,68,5
+19,6,86,64,Atletico GO,0,X,1,America MG,36,32,3
+19,5,48,53,Atletico-MG,1,X,2,Corinthians,47,36,0
+19,9,52,61,Fluminense,2,X,1,Bragantino,39,28,5
+19,8,43,44,Juventude,1,X,0,Ceara,56,55,3
+19,12,44,51,Palmeiras,2,X,1,Internacional,49,24,5
+19,6,54,43,Avai,1,X,2,Flamengo RJ,57,49,5
+19,2,40,53,Botafogo RJ,2,X,0,Athletico-PR,47,62,11
+19,6,74,63,Sao Paulo,3,X,3,Goias,37,42,3
+18,7,61,48,America MG,0,X,1,Palmeiras,52,63,7
+18,4,35,32,Cuiaba,1,X,1,Atletico-MG,68,73,2
+18,9,61,61,Corinthians,3,X,1,Coritiba,39,34,2
+18,4,30,35,Santos,2,X,0,Botafogo RJ,65,55,4
+18,5,96,63,Flamengo RJ,4,X,0,Juventude,37,14,4
+18,4,23,34,Internacional,3,X,3,Sao Paulo,66,41,3
+18,3,44,42,Athletico-PR,4,X,1,Atletico GO,58,21,2
+18,4,41,55,Bragantino,2,X,1,Fortaleza,45,32,9
+18,2,58,27,Goias,2,X,3,Fluminense,73,75,3
+18,3,56,45,Ceara,1,X,0,Avai,55,38,3
+17,11,55,61,Palmeiras,1,X,0,Cuiaba,39,39,4
+17,10,81,55,America MG,0,X,3,Bragantino,45,39,5
+17,5,72,62,Atletico GO,0,X,1,Fortaleza,38,27,6
+17,6,43,37,Botafogo RJ,0,X,1,Atletico-MG,63,48,2
+17,5,27,37,Sao Paulo,2,X,2,Fluminense,63,42,3
+17,7,67,61,Juventude,0,X,0,Goias,39,41,4
+17,6,44,45,Ceara,3,X,1,Corinthians,55,23,2
+17,6,34,41,Avai,1,X,0,Santos,59,47,8
+17,8,64,55,Flamengo RJ,2,X,0,Coritiba,45,55,6
+17,5,49,60,Athletico-PR,0,X,0,Internacional,40,43,5
+16,13,74,68,Internacional,1,X,0,America MG,32,39,2
+16,5,38,46,Cuiaba,2,X,0,Botafogo RJ,54,34,2
+16,7,60,59,Atletico-MG,0,X,0,Sao Paulo,41,48,4
+16,2,23,39,Fortaleza,0,X,0,Palmeiras,61,42,6
+16,9,41,48,Santos,1,X,0,Atletico GO,52,39,10
+16,6,49,49,Corinthians,1,X,0,Flamengo RJ,51,33,3
+16,11,57,48,Coritiba,2,X,2,Juventude,52,35,7
+16,2,30,35,Goias,2,X,1,Athletico-PR,65,46,2
+16,9,58,59,Fluminense,2,X,1,Ceara,41,48,10
+16,19,64,46,Bragantino,4,X,0,Avai,54,40,7
+15,9,49,64,Bragantino,0,X,1,Botafogo RJ,36,28,4
+15,11,70,52,America MG,1,X,0,Goias,48,61,3
+15,2,32,38,Coritiba,2,X,1,Fortaleza,62,63,6
+15,3,71,53,Atletico GO,1,X,2,Sao Paulo,47,58,0
+15,4,53,60,Avai,1,X,2,Cuiaba,40,51,4
+15,9,65,71,Palmeiras,0,X,2,Athletico-PR,29,20,2
+15,3,44,61,Ceara,1,X,1,Internacional,39,19,2
+15,7,48,45,Santos,1,X,2,Flamengo RJ,55,40,3
+15,6,48,58,Fluminense,4,X,0,Corinthians,42,33,4
+15,6,68,56,Juventude,1,X,2,Atletico-MG,44,25,6
+14,4,40,49,Ceara,1,X,1,Atletico GO,51,33,2
+14,4,49,46,Goias,1,X,0,Cuiaba,54,53,6
+14,16,81,59,Sao Paulo,0,X,0,Juventude,41,15,1
+14,2,24,49,Avai,2,X,2,Palmeiras,51,45,5
+14,1,21,21,Botafogo RJ,0,X,1,Fluminense,79,70,6
+14,1,46,66,Atletico-MG,3,X,2,Fortaleza,34,24,3
+14,3,41,61,Corinthians,0,X,0,Santos,39,23,2
+14,7,51,53,Flamengo RJ,3,X,0,America MG,47,45,7
+14,5,23,30,Athletico-PR,4,X,2,Bragantino,70,53,11
+14,1,39,56,Internacional,3,X,0,Coritiba,44,31,10
+13,3,41,39,Sao Paulo,1,X,2,Palmeiras,61,63,7
+13,6,48,50,Fluminense,2,X,0,Avai,50,37,3
+13,7,64,65,Atletico GO,3,X,1,Juventude,35,24,2
+13,5,49,51,Fortaleza,1,X,0,America MG,49,56,8
+13,7,100,78,Internacional,2,X,3,Botafogo RJ,22,19,2
+13,9,46,48,Atletico-MG,2,X,0,Flamengo RJ,52,39,8
+13,6,69,66,Corinthians,1,X,0,Goias,34,35,4
+13,12,69,61,Coritiba,0,X,1,Athletico-PR,39,32,1
+13,3,33,43,Santos,2,X,2,Bragantino,57,54,9
+13,7,58,45,Cuiaba,0,X,0,Ceara,55,45,6
+12,3,34,50,Avai,3,X,2,Fortaleza,50,38,4
+12,12,58,49,Palmeiras,4,X,2,Atletico GO,51,20,4
+12,3,41,33,Botafogo RJ,1,X,0,Sao Paulo,67,53,3
+12,3,24,22,America MG,0,X,0,Fluminense,78,94,8
+12,11,55,44,Athletico-PR,1,X,1,Corinthians,56,41,4
+12,4,45,63,Flamengo RJ,2,X,0,Cuiaba,37,34,3
+12,8,60,53,Goias,1,X,2,Internacional,47,32,2
+12,4,41,52,Bragantino,4,X,2,Coritiba,48,40,5
+12,5,61,52,Ceara,0,X,0,Atletico-MG,48,27,2
+12,4,21,34,Juventude,1,X,2,Santos,66,79,9
+11,7,40,51,Botafogo RJ,0,X,1,Avai,49,30,1
+11,7,76,63,Fortaleza,0,X,0,Athletico-PR,37,33,1
+11,5,42,47,Coritiba,0,X,2,Palmeiras,53,58,6
+11,2,8,49,Goias,1,X,1,Ceara,51,9,10
+11,2,11,48,Sao Paulo,1,X,0,America MG,52,10,4
+11,4,34,32,Internacional,3,X,1,Flamengo RJ,68,52,4
+11,5,50,68,Atletico-MG,1,X,1,Santos,32,24,6
+11,5,57,43,Cuiaba,1,X,1,Bragantino,57,40,4
+11,10,65,47,Fluminense,0,X,2,Atletico GO,53,28,6
+11,4,43,57,Corinthians,2,X,0,Juventude,43,29,5
+10,1,28,40,Coritiba,1,X,1,Sao Paulo,60,61,10
+10,6,47,51,Fortaleza,1,X,1,Goias,49,34,2
+10,7,37,48,Palmeiras,4,X,0,Botafogo RJ,52,25,4
+10,1,21,43,Fluminense,5,X,3,Atletico-MG,57,50,9
+10,10,54,51,Santos,1,X,1,Internacional,49,41,3
+10,8,62,53,Atletico GO,2,X,1,Avai,47,38,6
+10,5,33,32,Bragantino,1,X,0,Flamengo RJ,68,79,7
+10,4,66,57,America MG,0,X,2,Ceara,43,28,4
+10,11,92,54,Juventude,1,X,3,Athletico-PR,46,37,5
+10,4,52,39,Cuiaba,1,X,0,Corinthians,61,56,3
+9,9,70,62,Botafogo RJ,1,X,2,Goias,38,29,2
+9,7,57,49,Bragantino,0,X,2,Internacional,51,33,3
+9,9,64,66,Flamengo RJ,1,X,2,Fortaleza,34,43,3
+9,6,30,50,Palmeiras,0,X,0,Atletico-MG,50,36,2
+9,5,67,49,Juventude,1,X,0,Fluminense,51,66,7
+9,9,74,56,Atletico GO,0,X,1,Corinthians,44,31,0
+9,7,42,42,Athletico-PR,2,X,2,Santos,58,36,6
+9,4,49,53,Avai,1,X,1,Sao Paulo,47,38,7
+9,5,55,51,Ceara,1,X,1,Coritiba,49,38,6
+9,8,75,52,America MG,2,X,1,Cuiaba,48,47,4
+3,4,35,41,Fortaleza,0,X,1,Ceara,59,45,1
+8,3,47,44,Internacional,1,X,1,Atletico GO,56,75,12
+8,13,72,62,Atletico-MG,2,X,1,Avai,38,21,0
+8,6,47,63,Corinthians,1,X,1,America MG,37,46,5
+8,8,60,58,Cuiaba,0,X,1,Athletico-PR,42,34,8
+8,12,43,62,Fluminense,1,X,2,Flamengo RJ,38,33,2
+8,5,38,28,Coritiba,1,X,0,Botafogo RJ,72,65,9
+8,3,43,44,Santos,0,X,1,Palmeiras,56,37,4
+8,8,72,62,Fortaleza,1,X,1,Juventude,38,41,7
+8,8,47,51,Sao Paulo,2,X,2,Ceara,49,40,3
+8,6,71,52,Goias,1,X,1,Bragantino,48,45,1
+7,5,32,42,Athletico-PR,2,X,1,Avai,58,22,4
+7,8,42,55,Corinthians,1,X,1,Sao Paulo,45,35,8
+7,12,77,63,Fortaleza,0,X,1,Fluminense,37,20,5
+7,3,41,41,America MG,1,X,1,Botafogo RJ,59,48,5
+7,4,31,42,Cuiaba,1,X,1,Internacional,58,50,11
+7,7,35,45,Juventude,0,X,3,Palmeiras,55,32,7
+7,6,60,51,Santos,0,X,0,Ceara,49,41,2
+7,3,61,57,Atletico GO,2,X,0,Coritiba,43,45,5
+7,6,58,64,Flamengo RJ,1,X,0,Goias,36,31,4
+6,5,32,32,Goias,1,X,0,Santos,68,64,9
+6,6,71,64,Avai,1,X,2,Juventude,36,37,6
+6,5,48,62,Botafogo RJ,3,X,1,Fortaleza,38,30,1
+6,7,44,58,Coritiba,1,X,0,America MG,42,41,4
+6,15,76,73,Sao Paulo,2,X,1,Cuiaba,27,25,3
+6,4,46,63,Fluminense,2,X,1,Athletico-PR,37,36,5
+6,10,71,56,Atletico-MG,2,X,0,Atletico GO,44,25,2
+6,5,38,48,Internacional,2,X,2,Corinthians,52,39,6
+6,8,32,41,Ceara,2,X,2,Flamengo RJ,59,17,3
+6,7,27,48,Palmeiras,2,X,0,Bragantino,52,35,4
+7,3,46,38,Bragantino,1,X,1,Atletico-MG,62,42,10
+5,5,34,58,Avai,2,X,1,Coritiba,42,26,7
+5,9,65,54,Fortaleza,1,X,1,Sao Paulo,46,32,4
+5,6,61,57,Juventude,1,X,1,Internacional,43,29,3
+5,1,59,57,Bragantino,0,X,1,Corinthians,43,30,1
+5,4,26,47,Santos,4,X,1,Cuiaba,53,45,8
+5,12,95,77,Atletico GO,0,X,1,Goias,23,24,0
+5,6,71,48,Palmeiras,1,X,1,Fluminense,52,20,3
+5,10,57,52,Flamengo RJ,0,X,1,Botafogo RJ,48,31,4
+5,4,33,40,Athletico-PR,1,X,0,Ceara,60,47,9
+5,11,73,68,Atletico-MG,1,X,2,America MG,32,28,3
+4,1,70,57,Sao Paulo,2,X,1,Santos,43,27,4
+4,18,66,60,Internacional,0,X,0,Avai,40,17,2
+4,9,42,56,Corinthians,1,X,0,Fortaleza,44,43,4
+4,8,78,55,Coritiba,3,X,2,Fluminense,45,17,1
+4,6,47,61,Botafogo RJ,1,X,1,Juventude,39,31,4
+4,4,59,51,Cuiaba,1,X,1,Atletico GO,49,51,6
+4,0,24,31,Goias,2,X,2,Atletico-MG,69,72,10
+4,6,53,46,America MG,1,X,0,Athletico-PR,54,36,11
+4,5,50,56,Ceara,0,X,1,Bragantino,44,32,4
+3,3,38,41,Avai,3,X,2,Goias,59,39,5
+3,2,34,37,Atletico GO,1,X,1,Botafogo RJ,63,58,7
+3,6,43,57,Juventude,0,X,1,Cuiaba,43,30,7
+3,3,33,39,Santos,3,X,0,America MG,61,73,8
+3,3,60,61,Atletico-MG,2,X,2,Coritiba,39,35,3
+3,5,46,57,Fluminense,0,X,1,Internacional,43,37,4
+3,12,44,44,Palmeiras,3,X,0,Corinthians,56,42,4
+3,6,43,41,Athletico-PR,1,X,0,Flamengo RJ,59,65,5
+3,6,38,33,Bragantino,1,X,1,Sao Paulo,67,60,9
+4,9,37,56,Flamengo RJ,0,X,0,Palmeiras,44,38,6
+2,4,57,64,Ceara,1,X,3,Botafogo RJ,36,21,2
+2,2,43,44,Athletico-PR,0,X,1,Atletico-MG,56,49,5
+2,13,76,58,Bragantino,4,X,0,Atletico GO,42,22,2
+2,8,39,51,Internacional,2,X,1,Fortaleza,49,28,5
+2,2,47,53,Flamengo RJ,3,X,1,Sao Paulo,47,29,3
+2,4,42,35,Santos,2,X,1,Coritiba,65,65,7
+2,2,35,39,Cuiaba,0,X,1,Fluminense,61,37,5
+2,5,53,46,America MG,4,X,1,Juventude,54,35,5
+2,7,41,54,Corinthians,3,X,0,Avai,46,25,2
+2,2,27,25,Goias,1,X,1,Palmeiras,75,88,6
+1,5,79,50,Juventude,2,X,2,Bragantino,50,60,4
+1,6,43,58,Avai,1,X,0,America MG,42,32,1
+1,5,35,54,Sao Paulo,4,X,0,Athletico-PR,46,32,5
+1,7,45,65,Fortaleza,0,X,1,Cuiaba,35,16,1
+1,3,46,52,Atletico-MG,2,X,0,Internacional,48,36,3
+1,2,46,56,Botafogo RJ,1,X,3,Corinthians,44,34,4
+1,7,38,51,Coritiba,3,X,0,Goias,49,37,3
+1,11,65,55,Palmeiras,2,X,3,Ceara,45,33,8
+1,4,30,44,Atletico GO,1,X,1,Flamengo RJ,56,80,10
+1,8,51,66,Fluminense,0,X,0,Santos,34,19,1
