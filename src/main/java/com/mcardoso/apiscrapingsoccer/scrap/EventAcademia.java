@@ -32,4 +32,7 @@ public class EventAcademia {
     private String awayTeamOverOneGoalTotal;
     private String awayTeamOverTwoGoalsTotal;
     private String awayTeamOverThreeGoalsTotal;
+    private String oddOverOne;
+    private String oddOverTwo;
+    private String oddUnderFour;
 }
